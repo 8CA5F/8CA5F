@@ -3,9 +3,9 @@
 [![Github visitors](https://visitor-badge.glitch.me/badge?page_id=8CA5F.visitor-badge)](https://GitHub.com/8CA5F/StrapDown.js/stargazers/)
 
 
-## ⬇️ Contact me via these platforms! 
+<!--  ## ⬇️ Contact me via these platforms! 
 
-<!-- <a href="https://www.twitter.com/8CA5F" target="_blank"><img src="https://user-images.githubusercontent.com/61664693/116171179-f237f180-a710-11eb-9ff4-3b3935c74d44.png" width="55px"></img></a>
+<a href="https://www.twitter.com/8CA5F" target="_blank"><img src="https://user-images.githubusercontent.com/61664693/116171179-f237f180-a710-11eb-9ff4-3b3935c74d44.png" width="55px"></img></a>
 <a href="https://www.linkedin.com/in/8CA5F" target="_blank"><img src="https://user-images.githubusercontent.com/61664693/116171176-f19f5b00-a710-11eb-84e9-b16771b30e2d.png" width="55x"></img></a>
 <a href="mailto:8CA5F@gmail.com" target="_blank"><img src="https://user-images.githubusercontent.com/61664693/116171180-f237f180-a710-11eb-9aea-560e6d4490b7.png" width="55px"></img></a> -->
 
