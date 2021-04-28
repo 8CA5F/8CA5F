@@ -46,9 +46,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <p>
+<!--  <p>
     <img src="https://github-readme-stats.vercel.app/api?username=8CA5F&count_private=true&show_icons=true&theme=tokyonight">
-</p>
+</p> -->
   <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=8CA5F&hide=python&layout=compact&show_icons=true&theme=tokyonight">
   </p>
